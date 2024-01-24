@@ -1,0 +1,48 @@
+#bbg {
+  background-color: #34a387;
+}
+
+#nav-bar {
+  position: relative;
+  top: 12cm;
+}
+
+#description {
+  font-size: xx-large;
+  font-family: sans-serif;
+}
+
+#t-body {
+  color: rgb(143, 29, 29);
+  text-align: center;
+}
+#ct {
+  border-radius: 20px;
+  -webkit-box-shadow: -38px 36px 34px 0px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: -38px 36px 34px 0px rgba(0, 0, 0, 0.75);
+  box-shadow: -38px 36px 34px 0px rgba(0, 0, 0, 0.75);
+}
+
+.page-item {
+  border-radius: 30px;
+  background-color: rgb(10, 10, 10);
+}
+#next {
+  border-radius: 30px;
+}
+#prev {
+  border-radius: 30px;
+}
+.page-link {
+  border-radius: 30px;
+}
+
+#bg {
+  background-color: rgb(8, 8, 8);
+}
+#table-data {
+  background-color: rgb(9, 8, 10);
+  box-shadow: rgba(19, 17, 18, 0.25) 0px 54px 55px,
+    rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px,
+    rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
